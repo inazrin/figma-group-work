@@ -1,3 +1,636 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.header-img{
+   width: 8%;
+   margin-left: 8.47%;
+   margin-top: 1.4%;
+}
+.first-container {
+   margin-left: 8.47%;
+   margin-top: 6.6%;
+   width: 74.5vw;
+   display: flex;
+}
+
+.first-items {
+   width: 43.6vw;
+}
+
+.first-div {
+   display: flex;
+}
+
+.img-st {
+   width: 1.52vw;
+   height: 1.6vw;
+   margin-right: 0.34vw;
+}
+
+.img-nd {
+   width: 1.52vw;
+   height: 1.6vw;
+   margin-right: 0.34vw;
+   margin-left: 1.73vw;
+}
+.img-rd{
+   width: 1.52vw;
+   height: 1.6vw;
+   margin-right: 0.34vw;
+   margin-left: 1.73vw;
+}
+
+.content{
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.38vw;
+}
+
+.second-container {
+   margin-top: 3.6vw;
+}
+
+.text-st {
+   font-family: 'Roboto Slab';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 5.5vw;
+   line-height: 101.38%;
+}
+
+.text-nd {
+   margin-top: 2.29vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.38vw;
+   line-height: 150%;
+}
+.firstmanimage {
+   margin-left: 14.1vw;
+   margin-top: 2.5vw;
+   width: 21.1vw;
+}
+.third-group {
+   position: absolute;
+   left: 28.4vw;
+   top: 46.25vw;
+
+   width: 33.5%;
+ 
+   height: 13.8vw;
+   background: #1E4681;
+   border-radius: 0.34vw;
+}
+
+.text-sect-rd{
+
+   color: white;
+   margin-top: 1.7vw;
+   margin-left: 0.3vw;
+   width: 29.9vw;
+   font-family: 'Roboto Slab';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.73vw;
+   line-height: 130%;
+}
+
+.text-sect-th {
+   color: white; 
+   margin-left: 19.3vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.38vw;
+   line-height: 130%;
+}
+
+.section-fourth {
+   margin-top: 32.6vw;
+   margin-left: 8.47vw;
+   display: flex;
+}
+
+.text-six {
+   width: 25.34vw;
+   font-family: 'Roboto Slab';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 3.81vw;
+   line-height: 101.38%;
+}
+
+.text-seven{
+   width: 45.9vw;
+   margin-top: 3.47vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.66vw;
+   line-height: 150%;
+}
+
+.img-man {
+   margin-top: 8.75vw;
+   margin-left: 13.2vw;
+   width: 21.8vw;
+   height: 21vw;
+}
+.five-group {
+   margin-top: 5.41vw;
+   margin-left: 8.4vw;
+   display: flex;
+   gap: 9.16vw;
+
+}
+
+.operator {
+   width: 16.11vw;
+   height: 14.09vw;
+}
+
+.blogs{
+   display: flex;
+   gap: 6.94vw;
+}
+
+.text-eight{
+   margin-top: 5.2vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 1.73vw;
+   line-height: 130%;
+}
+
+.text-nine{
+   margin-top: 1.38vw;
+   width: 10.41vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.25vw;
+   line-height: 130%;
+}
+.blog-content {
+   margin-top: 12.84vw;
+   margin-left: 8.47vw;
+}
+
+.text-ten {
+   font-family: 'Roboto Slab';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 3.81vw;
+   line-height: 101.38%;
+}
+
+.group-ve {
+   display: flex;
+   gap: 8.88vw;
+}
+
+.tt-st {
+   margin-top: 8.88vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 1.73vw;
+   line-height: 130%;
+   color: #1E4681;
+}
+
+.tt-nd {
+   width: 18.36vw;
+   margin-top: 1vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.25vw;
+   line-height: 130%;
+}
+.blog-sixth {
+   margin-top: 15.97vw;
+   margin-left: 8.4vw;
+}
+
+.text-ven {
+   font-family: 'Roboto Slab';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 3.81vw;
+   line-height: 101.38%;
+}
+
+.list {
+   margin-top: 4.375vw;
+   width: 46vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.66vw;
+   line-height: 150%;
+}
+.main {
+   margin-top: 16.66vw;
+   margin-left: 8.47vw;
+   font-family: 'Roboto Slab';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 3.81vw;
+   line-height: 101.38%;
+}
+
+
+.items-section {
+   margin-top: 8.81vw;
+   margin-left: 5.83vw;
+   display: flex;
+   flex-wrap: wrap;
+   gap: 2.5vw;
+}
+
+.block {
+   width: 27.4vw;
+   height: 24.4vw;
+   background: #FFFFFF;
+   box-shadow: 0.06vw 0.06vw 1.04vw rgba(0, 0, 0, 0.25);
+   border-radius: 2.08vw;
+}
+
+.picture {
+   width: 27.4vw;
+   height: 11.11vw;
+   object-fit: cover;
+   object-position: 100% 30%;
+   border-radius: 2.08vw 2.08vw 0vw 0vw;
+}
+
+.tt-ve {
+   margin-top: 1.1vw;
+   margin-left: 1.38vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 2.08vw;
+   line-height: 130%;
+}
+
+.tt-teen{
+   margin-top: 2vw;
+   margin-left: 1.38vw;
+   width: 25.34vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.73vw;
+   line-height: 130%;
+}
+
+.tt-dred {
+   margin-top: 0.4vw;
+   margin-left: 1.38vw;
+   width: 25.34vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.73vw;
+   line-height: 130%;
+}
+
+
+
+.blog-eight {
+   padding-top: 6.31vw;
+   margin-top: 8.26vw;
+   background: #EFEFEF;
+   width: 100%;
+   height: 54.1vw;
+}
+
+.main-nd {
+   margin-left: 8.47vw;
+   font-family: 'Roboto Slab';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 3.81vw;
+   line-height: 101.38%;
+}
+
+.container-eight {
+   margin-top: 4.79vw;
+   margin-left: 8.47vw;
+   width: 54.93vw;
+   height: 31.31vw;
+   background: #FFFFFF;
+   box-shadow: 0.06vw 0.06vw 1.38vw rgba(0, 0, 0, 0.25);
+   border-radius: 2.08vw;
+   padding-top: 3.33vw;
+}
+
+.tt-fourteen {
+   margin-left: 3.125vw;
+   width: 48.61vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.38vw;
+   line-height: 150%;
+}
+
+.profile {
+   width: 13.19vw;
+   height: 11.73vw;
+}
+
+.blg {
+   margin-top: 3.26vw;
+   margin-left: 1.80vw;
+   display: flex;
+}
+
+.blog-item {
+   margin-left: 2.08vw;
+}
+
+.text-veteen {
+   margin-top: 2.77vw;
+   font-family: 'Roboto Slab';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 2.08vw;
+   line-height: 101.38%;
+}
+
+.facebook {
+   margin-top: 1.736vw;
+   width: 2.22vw;
+   height: 2.152vw;
+}
+.blog-sect-nine {
+   width: 100%;
+   height: 54.1vw;
+   background: #9DC9C8;
+   padding-top: 12.84vw;
+}
+
+.text-end {
+   margin-left: 8.4vw;
+   font-family: 'Roboto Slab';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 3.81vw;
+   line-height: 101.38%;
+}
+
+.item-nine {
+   margin-top: 4.16vw;
+   margin-left: 8.4vw;
+}
+
+.tt-sixteen {
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.73vw;
+   line-height: 101.38%;
+}
+
+.tt-seventeen {
+   margin-top: 1.73vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 5.55vw;
+   line-height: 101.38%;
+}
+
+.blog-item-ten {
+   margin-top: 1.81vw;
+   margin-left: 8.4vw;
+   display: flex;
+   gap: 5.06vw;
+}
+
+.tt-eigteen {
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.73vw;
+   line-height: 101.38%;
+}
+
+.tt-ninteen {
+   margin-top: 1.18vw;
+   width: 20.41vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.25vw;
+   line-height: 101.38%;
+}
+.footer {
+   width: 100%;
+   height: 27.08vw;
+   background-color: black;
+   padding-top: 3.47vw;
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.imginfooter {
+   margin-left: 8.4vw;
+   width: 7.98vw;
+   height: 4.72vw;
+}
+
+.blog-tvelve {
+   margin-left: 8.4vw;
+}
+
+.icons {
+   margin-top: 2.08vw;
+   margin-right: 1.25vw;
+   width: 2.29vw;
+   height: 2.29vw;
+}
+
+.container-nine{
+   margin-left: 40vw;
+}
+
+.blog-ven {
+   width: 22.08vw;
+   height: 6.11vw;
+   display: flex;
+   flex: wrap;
+}
+
+.phoneicon {
+   width: 1.87vw;
+   height: 1.87vw;
+   margin-right: 1.52vw;
+}
+
+.tt-tynd {
+   width: 18.68vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.73vw;
+   line-height: 101.38%;
+   color: white;
+}
+
+.mailicon {
+   width: 1.87vw;
+   height: 1.25vw;
+   margin-right: 1.52vw;
+   margin-top: 0.2vw;
+}
+
+.context {
+   display: flex;
+   margin-top: 0.69vw;
+}
+
+.container-thirteen {
+   display: flex;
+   margin-top: 1.38vw;
+}
+
+.tt-ndth {
+   color: white;
+   margin-left: 8.4vw;
+   margin-top: 10.2vw;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1.25vw;
+   line-height: 101.38%;
+}
+@media screen and (max-width: 991px) {
+   .header-img{
+       width: 8%;
+       margin-left: 20%;
+       margin-top: 1.4%;
+   }
+
+   .first-container {
+       margin-left: 20%;
+       flex-direction: column;
+   }
+
+   .firstmanimage {
+       margin-top: -2.5vh;
+       margin-left: 22vw;
+   }
+
+   .text-nd{
+       width: 212.4px;
+       height: 28.96px;
+   }
+
+   .third-group {
+       margin-top: 20%;
+       margin-left: -9%;
+   }
+
+   .section-fourth{
+       margin-left: 20%;
+       flex-direction: column;
+   }
+
+   .img-man {
+       margin-top: 1vw;
+   }
+
+   .five-group {
+       margin-top: 6vh;
+       margin-left: 20%;
+   }
+
+   .operator {
+       display: none;
+   }
+
+   .blogs{
+       width: 100vw;
+       flex-direction: row;
+       flex-wrap: wrap;
+   }
+
+   .blogs>.blog-th:nth-child(2) {
+       width: 50vw;
+   }
+
+   .uppergroup4 {
+       margin-top: 6vh;
+       margin-left: 20%;
+       display: flex;
+       flex-direction: column;
+   }
+
+   .blog-content {
+       gap: 1px;
+       flex-direction: column;
+       align-items: flex-start;
+       justify-content: flex-start;
+   }
+
+   .blog-sixth {
+       margin-top: 6vh;
+       margin-left: 20%;
+   }
+
+
+   .main {
+       margin-top: 6vh;
+       margin-left: 20%;
+   }
+
+   .items-section {
+       margin-top: 6vh;
+       flex-direction: column;
+       align-items: center;
+   }
+
+   .main-nd {
+       margin-left: 20%;
+   }
+
+   .container-eight {
+       margin-left: 20%;
+   }
+
+   .blog-sect-nine{
+       padding-top: 1vw;
+       height: 363.46px;
+       display: flex;
+       flex-direction: column;
+       gap: 20px;
+       justify-content: center;
+   }
+
+   .footer {
+       flex-direction: column;
+   }
+
+   .container-nine {
+       margin-top: 10px;
+       margin-left: 8vw;
+   }
+
+   .tt-ndth {
+       margin-top: 20px;
+   }
+
+}
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Slab&display=swap');
 .esas{
     background: #EFEFEF;
